@@ -1,0 +1,2 @@
+# Design-and-Functional-Verification-of-a-RISC-V-SoC-with-Integrated-AES-128-Hardware-Acceleratorr
+SecureCore-RV is a 32-bit RISC-V SoC with an integrated AES-128 hardware accelerator for secure encryption. Developed in Verilog HDL using Vivado, it uses memory-mapped registers to load plaintext and keys, start encryption, and retrieve ciphertext. The design is functionally verified through simulation and evaluated for FPGA resource utilization!
